@@ -27,3 +27,6 @@ $ python -m pip install --use-deprecated=legacy-resolver -r requirements.txt
 1. data driven test를 수행해야 할 경우 인수들을 yaml 파일로 정리하고 호출할 수 있도록 개선
 2. [무료체험신청] 부분이 중복 테스트라면 진입정도만 확인하고 상세 내용은 한번만 확인하는 것으로 개선
 3. playwright와 같은 cross-browsing framework로 테스트 전환
+---
+### 실행 동영상 링크
+https://www.dropbox.com/scl/fo/5fcysadxhtc6htgw54clo/h?rlkey=fr9brcc3wdz35jysizr0oa81g&dl=0
